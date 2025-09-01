@@ -35,5 +35,3 @@ You can download the script from the repo or use this oneliner command, there ar
 `sudo bash -c "$(wget -qO- https://raw.githubusercontent.com/mewnityy/ubuntu-debullshit/main/ubuntu-debullshit.sh)"`
 
 After the install, reboot and enjoy a clean ubuntu linux experience :)
-
-<a href='https://ko-fi.com/polkaulfield' target='_blank'><img height='15' style='border:0px;height:46px;' src='https://github.com/polkaulfield/misc/blob/main/kofi.png?raw=true' border='0' alt='Buy Me a Coffee at ko-fi.com' />
